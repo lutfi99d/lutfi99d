@@ -54,17 +54,17 @@ My work includes mobile UI development, API integration, backend development, de
 
 ## 🌟 Selected Projects
 
+### PureOps
+
+Kotlin Multiplatform (KMP) workforce & operations platform featuring scalable mobile architecture, workforce event management workflows, REST API integration, and modern Jetpack Compose UI implementation.
+
 ### Smart Review Funnel
 
-Backend-driven review management platform with secure APIs, CI/CD pipelines, and production deployment.
+Backend-driven review management platform built with Spring Boot, PostgreSQL, secure REST APIs, authentication workflows, and scalable backend architecture principles.
 
-### Spring Boot Backend API
+### AI Translator
 
-Backend services built with Spring Boot, PostgreSQL, and REST APIs following clean architecture principles.
-
-### Android Application UI System
-
-Modern Android application UI implementation using Jetpack Compose with scalable architecture and responsive design.
+AI-powered translation platform integrated with Microsoft Azure translation services, featuring secure API communication, validation workflows, and backend integration handling.
 
 ---
 
